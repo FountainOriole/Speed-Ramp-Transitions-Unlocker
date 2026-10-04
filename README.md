@@ -152,16 +152,4 @@ speed_ramp_transitions/
 
 ---
 
-## 📌 About (для поля About на GitHub)
 
-**Скопируй это в поле About:**
-
-```
-⚡ Speed Ramp Transitions — desktop toolkit for video editors. Speed ramp presets, transition library, motion templates, bezier curve editor, and beat sync. Open source Windows companion.
-```
-
-**Topics (теги для GitHub — до 20 штук):**
-
-```
-speed-ramp, speed-ramping, transitions, motion-graphics, video-editor-tools, motion-presets, bezier-curves, beat-sync, transition-library, windows-tool, creative-tools, video-editing, post-production, editing-workflow, content-creator-tools, desktop-app, motion-templates, open-source, export-presets, standalone-utility
-```
